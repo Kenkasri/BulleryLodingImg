@@ -1,1 +1,1 @@
-# BulleryLodingImg    A smooth loading animation where a blurred background image gradually becomes clear as a percentage counter fades out. Built with HTML, CSS, and JavaScript using filter and setInterval.
+# Blurry Image Loading Animation    A smooth loading animation where a blurred background image gradually becomes clear as a percentage counter fades out. Built with HTML, CSS, and JavaScript using filter and setInterval.
